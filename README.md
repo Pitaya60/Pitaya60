@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=F4B6D2&height=230&section=header&text=Pitaya60&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&stroke=D6709F&strokeWidth=2&desc=%E2%9C%A6%20%E2%99%A1%20welcome%20to%20my%20little%20corner%20%E2%99%A1%20%E2%9C%A6&descSize=20&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=F4B6D2&height=230&section=header&text=Camilla&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&stroke=D6709F&strokeWidth=2&desc=%E2%9C%A6%20%E2%99%A1%20welcome%20to%20my%20little%20corner%20%E2%99%A1%20%E2%9C%A6&descSize=20&descAlignY=65&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=D6709F&center=true&vCenter=true&width=520&height=40&lines=Hi%2C+I'm+Pitaya+%F0%9F%8C%B8;Full-stack+%26+AI+enthusiast+%E2%9C%A8;Turning+coffee+into+code+%E2%98%95;Making+cute+things+with+code+%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=D6709F&center=true&vCenter=true&width=520&height=40&lines=Hi%2C+I'm+Camilla+%F0%9F%8C%B8;Full-stack+enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
