@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B9B3D6&height=200&section=header&text=Pitaya60&fontSize=60&fontColor=4A4566&fontAlignY=38&desc=✦%20developer%20%7C%20designer%20%7C%20dreamer%20✦&descSize=18&descAlignY=60&descColor=C7609B)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C7609B&center=true&vCenter=true&width=480&lines=Hi,+I'm+Pitaya+👋;Full-stack+%26+AI+enthusiast;Always+learning+something+new+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C7609B&center=true&vCenter=true&width=480&lines=Hi,+I'm+Camilla+👋;AI+enthusiast;Always+learning+something+new+✨)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,10 +11,6 @@
 # 💫 About Me
 
 🔭 I’m currently working on **...**
-🌱 I’m currently learning **...**
-🤝 I’m open to collaborating on **...**
-💬 Ask me about **...**
-📫 Reach me: **...**
 
 ---
 
